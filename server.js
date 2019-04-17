@@ -58,8 +58,8 @@ app.get('/404', (request, response) => {
     })
 });
 
-app.listen(8080, () => {
-    console.log('Server is up on the port 8080');
+app.listen(8989, () => {
+    console.log('Server is up on the port 8989');
 });
 
 // app.listen(port, () => {
